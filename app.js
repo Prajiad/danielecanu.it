@@ -22,7 +22,7 @@ var typewriter = new Typewriter(app, {
 });
 
 typewriter
-    .typeString('./prajiad/about_me/A random guy, gamer and coder (maybe).')
+    .typeString('./prajiad/about_me/A gym rat, gamer and coder (maybe).')
     .pauseFor(1000)
     .start();
 
